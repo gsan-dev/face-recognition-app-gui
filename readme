@@ -1,0 +1,6 @@
+/****** APP GUI PYTHON FACE RECOGNITION ******\
+
+1. Install c++ interpreter visual studio community ("https://visualstudio.microsoft.com/")
+2. Install cmake ("https://cmake.org/download/") 
+3. Install libraries (Numpy, Tensorflow, opencv-python, matplotlib, tkinter, dlib, Pillow)
+4. Run "python demo.py"
